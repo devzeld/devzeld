@@ -1,7 +1,7 @@
 # Hello, I am Eldis Izeirovski. 👋
-![1](https://img.shields.io/badge/Clean%20code-evangelist-_.svg)
-![2](https://img.shields.io/badge/Swift-enthusiast-_.svg?logo=swift)
-![3](https://img.shields.io/badge/Flutter-expert-_.svg?logo=flutter)
+![1](https://img.shields.io/badge/Clean_code-peffozza-_.svg)
+![2](https://img.shields.io/badge/Javascript-enthusiast-_.svg?logo=javascript)
+![3](https://img.shields.io/badge/Java-expert-_.svg?logo=flutter)
 
 I'm a programmer
 
