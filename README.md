@@ -1,9 +1,9 @@
 # Hello, I am Eldis Izeirovski. 👋
 
 
-![1](https://img.shields.io/badge/JavaScript-enthusiast-034cb0.svg?logo=javascript)
-![2](https://img.shields.io/badge/Python-proficient-034cb0.svg?logo=python)
-![3](https://img.shields.io/badge/Flutter-learning-034cb0.svg?logo=flutter)
+![1](https://img.shields.io/badge/JavaScript-Enthusiast-034cb0.svg?logo=javascript)
+![2](https://img.shields.io/badge/Python-Proficient-034cb0.svg?logo=python)
+![3](https://img.shields.io/badge/Flutter-Learning-034cb0.svg?logo=flutter)
 
 I'm a mainly web developer concentrated on making attractive and usefull websites
 <!--
