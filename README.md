@@ -9,7 +9,8 @@
 
 
 
-I'm a mainly web developer concentrated on making attractive and usefull websites
+I'm a mainly web developer concentrated on making attractive and usefull websites.
+I made some discord bot in javascript and python too.
 
 <!--
 #### Contacts:
