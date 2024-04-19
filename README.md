@@ -6,7 +6,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![github](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)
-
+<!-- ![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) -->
 
 
 I'm a mainly web developer concentrated on making attractive and usefull websites.
