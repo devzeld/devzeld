@@ -1,4 +1,5 @@
-# Hello, I am Eldis Izeirovski. 👋
+
+<!-- # Hello, I am Eldis Izeirovski. 👋
 
 
 ### **I know:**
@@ -19,6 +20,7 @@
 
 I'm a mainly web developer concentrated on making attractive and usefull websites.
 I made a discord bot in javascript and python too.
+-->
 
 <!--
 #### Contacts:
