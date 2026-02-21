@@ -6,3 +6,4 @@
 [![Badge](https://img.shields.io/badge/coding-nothing_rn-blue?logo=code)](https://skillicons.dev)
 [![Badge](https://img.shields.io/badge/listening-online-4D701B?logo=spotify)](https://skillicons.dev)
 --> 
+![Top Langs](https://github-stats-dashboard-xi.vercel.app/api/donutLanguages/devzeld)
